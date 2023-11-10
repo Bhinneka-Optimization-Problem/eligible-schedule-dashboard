@@ -1,0 +1,299 @@
+origin,destination,main_key,origin_name,destination_name
+BBT,BBT,BBT-BBT,Bandung Buah Batu,Bandung Buah Batu
+BBT,BDRSTTA,BBT-BDRSTTA,Bandung Buah Batu,Bandara Soetta
+BBT,BKSM,BBT-BKSM,Bandung Buah Batu,Bekasi Mall
+BBT,BKSOC,BBT-BKSOC,Bandung Buah Batu,Bekasi Bebek Ocen
+BBT,CJR,BBT-CJR,Bandung Buah Batu,Cianjur
+BBT,CKR,BBT-CKR,Bandung Buah Batu,Cikarang Lippo Ruko Roxy
+BBT,CRB,BBT-CRB,Bandung Buah Batu,Cirebon Pilang Raya
+BBT,DPKNYUS,BBT-DPKNYUS,Bandung Buah Batu,Bhinneka Shuttle  Depok 
+BBT,IDM,BBT-IDM,Bandung Buah Batu,Indramayu Singajaya
+BBT,JKT,BBT-JKT,Bandung Buah Batu,Jakarta Cikini
+BBT,JTSH,BBT-JTSH,Bandung Buah Batu,Bekasi Jatiasih
+BBT,KJT,BBT-KJT,Bandung Buah Batu,Kertajati
+BBT,KRW,BBT-KRW,Bandung Buah Batu,Karawang Super Mall
+BBT,KTM,BBT-KTM,Bandung Buah Batu,Karawang Technomart Galuh Mas
+BBT,PLRT,BBT-PLRT,Bandung Buah Batu,Sukabumi Lembursitu
+BBT,SHTCPRNG,BBT-SHTCPRNG,Bandung Buah Batu,Kuningan - Ciporang
+BBT,SHTCWNG,BBT-SHTCWNG,Bandung Buah Batu,Jakarta Cawang
+BBT,SHTGRL,BBT-SHTGRL,Bandung Buah Batu,Bhinneka Shuttle Grogol
+BBT,SHTJTWRN,BBT-SHTJTWRN,Bandung Buah Batu,SHTJTWRN
+BBT,SHTKRWCI,BBT-SHTKRWCI,Bandung Buah Batu,Karawaci
+BBT,SHTTCM,BBT-SHTTCM,Bandung Buah Batu,Tangcity Mall - Drop Only
+BBT,SKB,BBT-SKB,Bandung Buah Batu,Sukabumi
+BDG,BIJB,BDG-BIJB,Bandung Mekarwangi,Kertajati Bijb
+BDG,CJR,BDG-CJR,Bandung Mekarwangi,Cianjur
+BDG,CKR,BDG-CKR,Bandung Mekarwangi,Cikarang Lippo Ruko Roxy
+BDG,CRB,BDG-CRB,Bandung Mekarwangi,Cirebon Pilang Raya
+BDG,DPKNYUS,BDG-DPKNYUS,Bandung Mekarwangi,Bhinneka Shuttle  Depok 
+BDG,IDM,BDG-IDM,Bandung Mekarwangi,Indramayu Singajaya
+BDG,JKT,BDG-JKT,Bandung Mekarwangi,Jakarta Cikini
+BDG,KRW,BDG-KRW,Bandung Mekarwangi,Karawang Super Mall
+BDG,PLRT,BDG-PLRT,Bandung Mekarwangi,Sukabumi Lembursitu
+BDG,SHTCPRNG,BDG-SHTCPRNG,Bandung Mekarwangi,Kuningan - Ciporang
+BDG,SKB,BDG-SKB,Bandung Mekarwangi,Sukabumi
+BDRSTTA,BBT,BDRSTTA-BBT,Bandara Soetta,Bandung Buah Batu
+BDRSTTA,CRB,BDRSTTA-CRB,Bandara Soetta,Cirebon Pilang Raya
+BDRSTTA,KJT,BDRSTTA-KJT,Bandara Soetta,Kertajati
+BDRSTTA,PST,BDRSTTA-PST,Bandara Soetta,Bandung Pasteur Square
+BDRSTTA,SHTCPRNG,BDRSTTA-SHTCPRNG,Bandara Soetta,Kuningan - Ciporang
+BDRSTTA,SHTDU,BDRSTTA-SHTDU,Bandara Soetta,Bandung Dipati Ukur
+BIJB,SHTCPRNG,BIJB-SHTCPRNG,Kertajati Bijb,Kuningan - Ciporang
+BIJB,SHTDU,BIJB-SHTDU,Kertajati Bijb,Bandung Dipati Ukur
+BIJB,SHTHPBS,BIJB-SHTHPBS,Kertajati Bijb,Hotel Pasar Baru Square 
+BKSOC,BBT,BKSOC-BBT,Bekasi Bebek Ocen,Bandung Buah Batu
+BKSOC,CRB,BKSOC-CRB,Bekasi Bebek Ocen,Cirebon Pilang Raya
+BKSOC,PST,BKSOC-PST,Bekasi Bebek Ocen,Bandung Pasteur Square
+BKSOC,SHTCPRNG,BKSOC-SHTCPRNG,Bekasi Bebek Ocen,Kuningan - Ciporang
+BKSOC,SHTDU,BKSOC-SHTDU,Bekasi Bebek Ocen,Bandung Dipati Ukur
+BKSOC,SHTJTNGR,BKSOC-SHTJTNGR,Bekasi Bebek Ocen,Jatinangor
+BKSOC,SHTSMD,BKSOC-SHTSMD,Bekasi Bebek Ocen,Sumedang
+BKSOC,SKB,BKSOC-SKB,Bekasi Bebek Ocen,Sukabumi
+CBBR,BBT,CBBR-BBT,Cibubur,Bandung Buah Batu
+CBBR,CRB,CBBR-CRB,Cibubur,Cirebon Pilang Raya
+CBBR,PST,CBBR-PST,Cibubur,Bandung Pasteur Square
+CBBR,SHTCPRNG,CBBR-SHTCPRNG,Cibubur,Kuningan - Ciporang
+CBBR,SHTDU,CBBR-SHTDU,Cibubur,Bandung Dipati Ukur
+CBBR,SHTSMD,CBBR-SHTSMD,Cibubur,Sumedang
+CJR,BBT,CJR-BBT,Cianjur,Bandung Buah Batu
+CJR,BDG,CJR-BDG,Cianjur,Bandung Mekarwangi
+CJR,JKT,CJR-JKT,Cianjur,Jakarta Cikini
+CJR,PST,CJR-PST,Cianjur,Bandung Pasteur Square
+CJR,SHTDU,CJR-SHTDU,Cianjur,Bandung Dipati Ukur
+CJR,SHTGRL,CJR-SHTGRL,Cianjur,Bhinneka Shuttle Grogol
+CKR,BBT,CKR-BBT,Cikarang Lippo Ruko Roxy,Bandung Buah Batu
+CKR,BDG,CKR-BDG,Cikarang Lippo Ruko Roxy,Bandung Mekarwangi
+CKR,CRB,CKR-CRB,Cikarang Lippo Ruko Roxy,Cirebon Pilang Raya
+CKR,PST,CKR-PST,Cikarang Lippo Ruko Roxy,Bandung Pasteur Square
+CKR,SHTCPRNG,CKR-SHTCPRNG,Cikarang Lippo Ruko Roxy,Kuningan - Ciporang
+CKR,SHTDU,CKR-SHTDU,Cikarang Lippo Ruko Roxy,Bandung Dipati Ukur
+CKR,SHTJTNGR,CKR-SHTJTNGR,Cikarang Lippo Ruko Roxy,Jatinangor
+CKR,SHTSMD,CKR-SHTSMD,Cikarang Lippo Ruko Roxy,Sumedang
+CRB,BBT,CRB-BBT,Cirebon Pilang Raya,Bandung Buah Batu
+CRB,BDG,CRB-BDG,Cirebon Pilang Raya,Bandung Mekarwangi
+CRB,BDRSTTA,CRB-BDRSTTA,Cirebon Pilang Raya,Bandara Soetta
+CRB,BIJB,CRB-BIJB,Cirebon Pilang Raya,Kertajati Bijb
+CRB,BKSOC,CRB-BKSOC,Cirebon Pilang Raya,Bekasi Bebek Ocen
+CRB,CBBR,CRB-CBBR,Cirebon Pilang Raya,Cibubur
+CRB,CKR,CRB-CKR,Cirebon Pilang Raya,Cikarang Lippo Ruko Roxy
+CRB,CRB,CRB-CRB,Cirebon Pilang Raya,Cirebon Pilang Raya
+CRB,DPKNYUS,CRB-DPKNYUS,Cirebon Pilang Raya,Bhinneka Shuttle  Depok 
+CRB,JKT,CRB-JKT,Cirebon Pilang Raya,Jakarta Cikini
+CRB,JTSH,CRB-JTSH,Cirebon Pilang Raya,Bekasi Jatiasih
+CRB,KRW,CRB-KRW,Cirebon Pilang Raya,Karawang Super Mall
+CRB,KTM,CRB-KTM,Cirebon Pilang Raya,Karawang Technomart Galuh Mas
+CRB,PST,CRB-PST,Cirebon Pilang Raya,Bandung Pasteur Square
+CRB,SHTCMH,CRB-SHTCMH,Cirebon Pilang Raya,Cimahi Mall
+CRB,SHTCWNG,CRB-SHTCWNG,Cirebon Pilang Raya,Jakarta Cawang
+CRB,SHTDU,CRB-SHTDU,Cirebon Pilang Raya,Bandung Dipati Ukur
+CRB,SHTGRL,CRB-SHTGRL,Cirebon Pilang Raya,Bhinneka Shuttle Grogol
+CRB,SHTJTNGR,CRB-SHTJTNGR,Cirebon Pilang Raya,Jatinangor
+CRB,SHTKRWCI,CRB-SHTKRWCI,Cirebon Pilang Raya,Karawaci
+CST,JKT,CST-JKT,Cisaat (Pickup Point),Jakarta Cikini
+CST,SHTGRL,CST-SHTGRL,Cisaat (Pickup Point),Bhinneka Shuttle Grogol
+DPKNYUS,BBT,DPKNYUS-BBT,Bhinneka Shuttle  Depok ,Bandung Buah Batu
+DPKNYUS,CRB,DPKNYUS-CRB,Bhinneka Shuttle  Depok ,Cirebon Pilang Raya
+DPKNYUS,PST,DPKNYUS-PST,Bhinneka Shuttle  Depok ,Bandung Pasteur Square
+DPKNYUS,SHTCPRNG,DPKNYUS-SHTCPRNG,Bhinneka Shuttle  Depok ,Kuningan - Ciporang
+DPKNYUS,SHTDU,DPKNYUS-SHTDU,Bhinneka Shuttle  Depok ,Bandung Dipati Ukur
+DPKNYUS,SHTJTNGR,DPKNYUS-SHTJTNGR,Bhinneka Shuttle  Depok ,Jatinangor
+DPKNYUS,SHTSMD,DPKNYUS-SHTSMD,Bhinneka Shuttle  Depok ,Sumedang
+IDM,BBT,IDM-BBT,Indramayu Singajaya,Bandung Buah Batu
+IDM,BDG,IDM-BDG,Indramayu Singajaya,Bandung Mekarwangi
+IDM,PST,IDM-PST,Indramayu Singajaya,Bandung Pasteur Square
+IDM,SHTCMH,IDM-SHTCMH,Indramayu Singajaya,Cimahi Mall
+IDM,SHTDU,IDM-SHTDU,Indramayu Singajaya,Bandung Dipati Ukur
+IDM,SHTKDPT,IDM-SHTKDPT,Indramayu Singajaya,Kadipaten
+IFTMG,BBT,IFTMG-BBT,Indomaret Fresh Tomang,Bandung Buah Batu
+JKT,BBT,JKT-BBT,Jakarta Cikini,Bandung Buah Batu
+JKT,CBDK,JKT-CBDK,Jakarta Cikini,Cibadak (Pickup Point) 
+JKT,CJR,JKT-CJR,Jakarta Cikini,Cianjur
+JKT,CRB,JKT-CRB,Jakarta Cikini,Cirebon Pilang Raya
+JKT,CST,JKT-CST,Jakarta Cikini,Cisaat (Pickup Point)
+JKT,KNG,JKT-KNG,Jakarta Cikini,Kuningan Cirendang
+JKT,KTM,JKT-KTM,Jakarta Cikini,Karawang Technomart Galuh Mas
+JKT,PST,JKT-PST,Jakarta Cikini,Bandung Pasteur Square
+JKT,SHTCGSNG,JKT-SHTCGSNG,Jakarta Cikini,Cigasong
+JKT,SHTCMH,JKT-SHTCMH,Jakarta Cikini,Cimahi Mall
+JKT,SHTCPRNG,JKT-SHTCPRNG,Jakarta Cikini,Kuningan - Ciporang
+JKT,SHTDU,JKT-SHTDU,Jakarta Cikini,Bandung Dipati Ukur
+JKT,SHTJTNGR,JKT-SHTJTNGR,Jakarta Cikini,Jatinangor
+JKT,SHTSMD,JKT-SHTSMD,Jakarta Cikini,Sumedang
+JKT,SKB,JKT-SKB,Jakarta Cikini,Sukabumi
+JMPTIDM,BBT,JMPTIDM-BBT,JMPTIDM,Bandung Buah Batu
+JMPTIDM,PST,JMPTIDM-PST,JMPTIDM,Bandung Pasteur Square
+JMPTKNG,BDG,JMPTKNG-BDG,JMPTKNG,Bandung Mekarwangi
+JMPTKNG,JKT,JMPTKNG-JKT,JMPTKNG,Jakarta Cikini
+JMPTKNG,KTM,JMPTKNG-KTM,JMPTKNG,Karawang Technomart Galuh Mas
+JMPTKNG,PST,JMPTKNG-PST,JMPTKNG,Bandung Pasteur Square
+JTSH,BBT,JTSH-BBT,Bekasi Jatiasih,Bandung Buah Batu
+JTSH,CRB,JTSH-CRB,Bekasi Jatiasih,Cirebon Pilang Raya
+JTSH,KCR,JTSH-KCR,Bekasi Jatiasih,KCR
+JTSH,PST,JTSH-PST,Bekasi Jatiasih,Bandung Pasteur Square
+JTSH,SHTCPRNG,JTSH-SHTCPRNG,Bekasi Jatiasih,Kuningan - Ciporang
+JTSH,SHTDU,JTSH-SHTDU,Bekasi Jatiasih,Bandung Dipati Ukur
+JTSH,SHTJTNGR,JTSH-SHTJTNGR,Bekasi Jatiasih,Jatinangor
+JTSH,SHTSMD,JTSH-SHTSMD,Bekasi Jatiasih,Sumedang
+JTSH,SKB,JTSH-SKB,Bekasi Jatiasih,Sukabumi
+KJT,BDRSTTA,KJT-BDRSTTA,Kertajati,Bandara Soetta
+KJT,JKT,KJT-JKT,Kertajati,Jakarta Cikini
+KNG,BDG,KNG-BDG,Kuningan Cirendang,Bandung Mekarwangi
+KNG,KTM,KNG-KTM,Kuningan Cirendang,Karawang Technomart Galuh Mas
+KNG,PST,KNG-PST,Kuningan Cirendang,Bandung Pasteur Square
+KNG,SHTCWNG,KNG-SHTCWNG,Kuningan Cirendang,Jakarta Cawang
+KRW,BBT,KRW-BBT,Karawang Super Mall,Bandung Buah Batu
+KRW,BDG,KRW-BDG,Karawang Super Mall,Bandung Mekarwangi
+KRW,CRB,KRW-CRB,Karawang Super Mall,Cirebon Pilang Raya
+KRW,PST,KRW-PST,Karawang Super Mall,Bandung Pasteur Square
+KRW,SHTCPRNG,KRW-SHTCPRNG,Karawang Super Mall,Kuningan - Ciporang
+KRW,SHTDU,KRW-SHTDU,Karawang Super Mall,Bandung Dipati Ukur
+KRW,SHTGRL,KRW-SHTGRL,Karawang Super Mall,Bhinneka Shuttle Grogol
+KRW,SHTSMD,KRW-SHTSMD,Karawang Super Mall,Sumedang
+KTM,JKT,KTM-JKT,Karawang Technomart Galuh Mas,Jakarta Cikini
+KTM,SHTCWNG,KTM-SHTCWNG,Karawang Technomart Galuh Mas,Jakarta Cawang
+KTM,SHTGRL,KTM-SHTGRL,Karawang Technomart Galuh Mas,Bhinneka Shuttle Grogol
+PLRT,BBT,PLRT-BBT,Sukabumi Lembursitu,Bandung Buah Batu
+PLRT,BDG,PLRT-BDG,Sukabumi Lembursitu,Bandung Mekarwangi
+PLRT,PST,PLRT-PST,Sukabumi Lembursitu,Bandung Pasteur Square
+PLRT,SHTCMH,PLRT-SHTCMH,Sukabumi Lembursitu,Cimahi Mall
+PLRT,SHTDU,PLRT-SHTDU,Sukabumi Lembursitu,Bandung Dipati Ukur
+PST,BDRSTTA,PST-BDRSTTA,Bandung Pasteur Square,Bandara Soetta
+PST,BIJB,PST-BIJB,Bandung Pasteur Square,Kertajati Bijb
+PST,BKSM,PST-BKSM,Bandung Pasteur Square,Bekasi Mall
+PST,BKSOC,PST-BKSOC,Bandung Pasteur Square,Bekasi Bebek Ocen
+PST,CBBR,PST-CBBR,Bandung Pasteur Square,Cibubur
+PST,CJR,PST-CJR,Bandung Pasteur Square,Cianjur
+PST,CKR,PST-CKR,Bandung Pasteur Square,Cikarang Lippo Ruko Roxy
+PST,CRB,PST-CRB,Bandung Pasteur Square,Cirebon Pilang Raya
+PST,DPKNYUS,PST-DPKNYUS,Bandung Pasteur Square,Bhinneka Shuttle  Depok 
+PST,IDM,PST-IDM,Bandung Pasteur Square,Indramayu Singajaya
+PST,JKT,PST-JKT,Bandung Pasteur Square,Jakarta Cikini
+PST,JTSH,PST-JTSH,Bandung Pasteur Square,Bekasi Jatiasih
+PST,KNG,PST-KNG,Bandung Pasteur Square,Kuningan Cirendang
+PST,KRW,PST-KRW,Bandung Pasteur Square,Karawang Super Mall
+PST,KTM,PST-KTM,Bandung Pasteur Square,Karawang Technomart Galuh Mas
+PST,PLRT,PST-PLRT,Bandung Pasteur Square,Sukabumi Lembursitu
+PST,PST,PST-PST,Bandung Pasteur Square,Bandung Pasteur Square
+PST,SHTCPRNG,PST-SHTCPRNG,Bandung Pasteur Square,Kuningan - Ciporang
+PST,SHTCWNG,PST-SHTCWNG,Bandung Pasteur Square,Jakarta Cawang
+PST,SHTGRL,PST-SHTGRL,Bandung Pasteur Square,Bhinneka Shuttle Grogol
+PST,SHTJTWRN,PST-SHTJTWRN,Bandung Pasteur Square,SHTJTWRN
+PST,SHTKDPT,PST-SHTKDPT,Bandung Pasteur Square,Kadipaten
+PST,SHTKRWCI,PST-SHTKRWCI,Bandung Pasteur Square,Karawaci
+PST,SHTTCM,PST-SHTTCM,Bandung Pasteur Square,Tangcity Mall - Drop Only
+PST,SKB,PST-SKB,Bandung Pasteur Square,Sukabumi
+SHTCGSNG,JKT,SHTCGSNG-JKT,Cigasong,Jakarta Cikini
+SHTCGSNG,SHTCWNG,SHTCGSNG-SHTCWNG,Cigasong,Jakarta Cawang
+SHTCMH,BDRSTTA,SHTCMH-BDRSTTA,Cimahi Mall,Bandara Soetta
+SHTCMH,CJR,SHTCMH-CJR,Cimahi Mall,Cianjur
+SHTCMH,CRB,SHTCMH-CRB,Cimahi Mall,Cirebon Pilang Raya
+SHTCMH,IDM,SHTCMH-IDM,Cimahi Mall,Indramayu Singajaya
+SHTCMH,JKT,SHTCMH-JKT,Cimahi Mall,Jakarta Cikini
+SHTCMH,PLRT,SHTCMH-PLRT,Cimahi Mall,Sukabumi Lembursitu
+SHTCMH,SHTCPRNG,SHTCMH-SHTCPRNG,Cimahi Mall,Kuningan - Ciporang
+SHTCMH,SHTCWNG,SHTCMH-SHTCWNG,Cimahi Mall,Jakarta Cawang
+SHTCMH,SHTJTNGR,SHTCMH-SHTJTNGR,Cimahi Mall,Jatinangor
+SHTCMH,SKB,SHTCMH-SKB,Cimahi Mall,Sukabumi
+SHTCPRNG,BBT,SHTCPRNG-BBT,Kuningan - Ciporang,Bandung Buah Batu
+SHTCPRNG,BDG,SHTCPRNG-BDG,Kuningan - Ciporang,Bandung Mekarwangi
+SHTCPRNG,BDRSTTA,SHTCPRNG-BDRSTTA,Kuningan - Ciporang,Bandara Soetta
+SHTCPRNG,BIJB,SHTCPRNG-BIJB,Kuningan - Ciporang,Kertajati Bijb
+SHTCPRNG,BKSOC,SHTCPRNG-BKSOC,Kuningan - Ciporang,Bekasi Bebek Ocen
+SHTCPRNG,CKR,SHTCPRNG-CKR,Kuningan - Ciporang,Cikarang Lippo Ruko Roxy
+SHTCPRNG,DPKNYUS,SHTCPRNG-DPKNYUS,Kuningan - Ciporang,Bhinneka Shuttle  Depok 
+SHTCPRNG,JKT,SHTCPRNG-JKT,Kuningan - Ciporang,Jakarta Cikini
+SHTCPRNG,JTSH,SHTCPRNG-JTSH,Kuningan - Ciporang,Bekasi Jatiasih
+SHTCPRNG,KRW,SHTCPRNG-KRW,Kuningan - Ciporang,Karawang Super Mall
+SHTCPRNG,KTM,SHTCPRNG-KTM,Kuningan - Ciporang,Karawang Technomart Galuh Mas
+SHTCPRNG,PST,SHTCPRNG-PST,Kuningan - Ciporang,Bandung Pasteur Square
+SHTCPRNG,SHTCMH,SHTCPRNG-SHTCMH,Kuningan - Ciporang,Cimahi Mall
+SHTCPRNG,SHTCWNG,SHTCPRNG-SHTCWNG,Kuningan - Ciporang,Jakarta Cawang
+SHTCPRNG,SHTGRL,SHTCPRNG-SHTGRL,Kuningan - Ciporang,Bhinneka Shuttle Grogol
+SHTCPRNG,SHTJTNGR,SHTCPRNG-SHTJTNGR,Kuningan - Ciporang,Jatinangor
+SHTCPRNG,SHTKRWCI,SHTCPRNG-SHTKRWCI,Kuningan - Ciporang,Karawaci
+SHTCPRNG,SHTTCM,SHTCPRNG-SHTTCM,Kuningan - Ciporang,Tangcity Mall - Drop Only
+SHTCWNG,BBT,SHTCWNG-BBT,Jakarta Cawang,Bandung Buah Batu
+SHTCWNG,CRB,SHTCWNG-CRB,Jakarta Cawang,Cirebon Pilang Raya
+SHTCWNG,CST,SHTCWNG-CST,Jakarta Cawang,Cisaat (Pickup Point)
+SHTCWNG,KTM,SHTCWNG-KTM,Jakarta Cawang,Karawang Technomart Galuh Mas
+SHTCWNG,PST,SHTCWNG-PST,Jakarta Cawang,Bandung Pasteur Square
+SHTCWNG,SHTCGSNG,SHTCWNG-SHTCGSNG,Jakarta Cawang,Cigasong
+SHTCWNG,SHTCMH,SHTCWNG-SHTCMH,Jakarta Cawang,Cimahi Mall
+SHTCWNG,SHTCPRNG,SHTCWNG-SHTCPRNG,Jakarta Cawang,Kuningan - Ciporang
+SHTCWNG,SHTJTNGR,SHTCWNG-SHTJTNGR,Jakarta Cawang,Jatinangor
+SHTCWNG,SHTSMD,SHTCWNG-SHTSMD,Jakarta Cawang,Sumedang
+SHTCWNG,SKB,SHTCWNG-SKB,Jakarta Cawang,Sukabumi
+SHTDU,BDRSTTA,SHTDU-BDRSTTA,Bandung Dipati Ukur,Bandara Soetta
+SHTDU,BIJB,SHTDU-BIJB,Bandung Dipati Ukur,Kertajati Bijb
+SHTDU,BKSM,SHTDU-BKSM,Bandung Dipati Ukur,Bekasi Mall
+SHTDU,BKSOC,SHTDU-BKSOC,Bandung Dipati Ukur,Bekasi Bebek Ocen
+SHTDU,CBBR,SHTDU-CBBR,Bandung Dipati Ukur,Cibubur
+SHTDU,CJR,SHTDU-CJR,Bandung Dipati Ukur,Cianjur
+SHTDU,CKR,SHTDU-CKR,Bandung Dipati Ukur,Cikarang Lippo Ruko Roxy
+SHTDU,CRB,SHTDU-CRB,Bandung Dipati Ukur,Cirebon Pilang Raya
+SHTDU,DPKNYUS,SHTDU-DPKNYUS,Bandung Dipati Ukur,Bhinneka Shuttle  Depok 
+SHTDU,IDM,SHTDU-IDM,Bandung Dipati Ukur,Indramayu Singajaya
+SHTDU,JKT,SHTDU-JKT,Bandung Dipati Ukur,Jakarta Cikini
+SHTDU,JTSH,SHTDU-JTSH,Bandung Dipati Ukur,Bekasi Jatiasih
+SHTDU,KRW,SHTDU-KRW,Bandung Dipati Ukur,Karawang Super Mall
+SHTDU,PLRT,SHTDU-PLRT,Bandung Dipati Ukur,Sukabumi Lembursitu
+SHTDU,SHTCWNG,SHTDU-SHTCWNG,Bandung Dipati Ukur,Jakarta Cawang
+SHTDU,SHTJTNGR,SHTDU-SHTJTNGR,Bandung Dipati Ukur,Jatinangor
+SHTDU,SHTKDPT,SHTDU-SHTKDPT,Bandung Dipati Ukur,Kadipaten
+SHTDU,SHTKRWCI,SHTDU-SHTKRWCI,Bandung Dipati Ukur,Karawaci
+SHTDU,SHTPIK,SHTDU-SHTPIK,Bandung Dipati Ukur,Pantai Indah Kapuk (Via Bandara Soetta)
+SHTDU,SKB,SHTDU-SKB,Bandung Dipati Ukur,Sukabumi
+SHTGRL,BBT,SHTGRL-BBT,Bhinneka Shuttle Grogol,Bandung Buah Batu
+SHTGRL,CJR,SHTGRL-CJR,Bhinneka Shuttle Grogol,Cianjur
+SHTGRL,KTM,SHTGRL-KTM,Bhinneka Shuttle Grogol,Karawang Technomart Galuh Mas
+SHTGRL,PST,SHTGRL-PST,Bhinneka Shuttle Grogol,Bandung Pasteur Square
+SHTGRL,SHTCPRNG,SHTGRL-SHTCPRNG,Bhinneka Shuttle Grogol,Kuningan - Ciporang
+SHTGRL,SHTSMD,SHTGRL-SHTSMD,Bhinneka Shuttle Grogol,Sumedang
+SHTGRL,SKB,SHTGRL-SKB,Bhinneka Shuttle Grogol,Sukabumi
+SHTHPBS,BIJB,SHTHPBS-BIJB,Hotel Pasar Baru Square ,Kertajati Bijb
+SHTJTNGR,BKSOC,SHTJTNGR-BKSOC,Jatinangor,Bekasi Bebek Ocen
+SHTJTNGR,CBBR,SHTJTNGR-CBBR,Jatinangor,Cibubur
+SHTJTNGR,CKR,SHTJTNGR-CKR,Jatinangor,Cikarang Lippo Ruko Roxy
+SHTJTNGR,DPKNYUS,SHTJTNGR-DPKNYUS,Jatinangor,Bhinneka Shuttle  Depok 
+SHTJTNGR,JKT,SHTJTNGR-JKT,Jatinangor,Jakarta Cikini
+SHTJTNGR,JTSH,SHTJTNGR-JTSH,Jatinangor,Bekasi Jatiasih
+SHTJTNGR,SHTCMH,SHTJTNGR-SHTCMH,Jatinangor,Cimahi Mall
+SHTJTNGR,SHTCWNG,SHTJTNGR-SHTCWNG,Jatinangor,Jakarta Cawang
+SHTJTNGR,SHTDU,SHTJTNGR-SHTDU,Jatinangor,Bandung Dipati Ukur
+SHTJTNGR,SHTGRL,SHTJTNGR-SHTGRL,Jatinangor,Bhinneka Shuttle Grogol
+SHTJTNGR,SKB,SHTJTNGR-SKB,Jatinangor,Sukabumi
+SHTKDPT,CRB,SHTKDPT-CRB,Kadipaten,Cirebon Pilang Raya
+SHTKRWCI,BBT,SHTKRWCI-BBT,Karawaci,Bandung Buah Batu
+SHTKRWCI,CRB,SHTKRWCI-CRB,Karawaci,Cirebon Pilang Raya
+SHTKRWCI,PST,SHTKRWCI-PST,Karawaci,Bandung Pasteur Square
+SHTKRWCI,SHTCPRNG,SHTKRWCI-SHTCPRNG,Karawaci,Kuningan - Ciporang
+SHTKRWCI,SHTCWNG,SHTKRWCI-SHTCWNG,Karawaci,Jakarta Cawang
+SHTSMD,BKSOC,SHTSMD-BKSOC,Sumedang,Bekasi Bebek Ocen
+SHTSMD,CBBR,SHTSMD-CBBR,Sumedang,Cibubur
+SHTSMD,CKR,SHTSMD-CKR,Sumedang,Cikarang Lippo Ruko Roxy
+SHTSMD,DPKNYUS,SHTSMD-DPKNYUS,Sumedang,Bhinneka Shuttle  Depok 
+SHTSMD,JKT,SHTSMD-JKT,Sumedang,Jakarta Cikini
+SHTSMD,JTSH,SHTSMD-JTSH,Sumedang,Bekasi Jatiasih
+SHTSMD,SHTCWNG,SHTSMD-SHTCWNG,Sumedang,Jakarta Cawang
+SHTSMD,SHTGRL,SHTSMD-SHTGRL,Sumedang,Bhinneka Shuttle Grogol
+SHTSMD,SHTJTWRN,SHTSMD-SHTJTWRN,Sumedang,SHTJTWRN
+SHTSMD,SKB,SHTSMD-SKB,Sumedang,Sukabumi
+SHTTGKBH,BBT,SHTTGKBH-BBT,Tangerang (Spbu Tangcity),Bandung Buah Batu
+SHTTGKBH,PST,SHTTGKBH-PST,Tangerang (Spbu Tangcity),Bandung Pasteur Square
+SHTTGKBH,SHTCPRNG,SHTTGKBH-SHTCPRNG,Tangerang (Spbu Tangcity),Kuningan - Ciporang
+SKB,BBT,SKB-BBT,Sukabumi,Bandung Buah Batu
+SKB,BDG,SKB-BDG,Sukabumi,Bandung Mekarwangi
+SKB,BKSOC,SKB-BKSOC,Sukabumi,Bekasi Bebek Ocen
+SKB,CBBRJNC,SKB-CBBRJNC,Sukabumi,Cibubur Junction (Drop Point)
+SKB,CJR,SKB-CJR,Sukabumi,Cianjur
+SKB,JKT,SKB-JKT,Sukabumi,Jakarta Cikini
+SKB,JKTGMP,SKB-JKTGMP,Sukabumi,Ex Giant Mampang (Drop Point)
+SKB,JKTUKI,SKB-JKTUKI,Sukabumi,Uki (Drop Point) 
+SKB,JTSH,SKB-JTSH,Sukabumi,Bekasi Jatiasih
+SKB,PST,SKB-PST,Sukabumi,Bandung Pasteur Square
+SKB,SHTCMH,SKB-SHTCMH,Sukabumi,Cimahi Mall
+SKB,SHTCWNG,SKB-SHTCWNG,Sukabumi,Jakarta Cawang
+SKB,SHTDU,SKB-SHTDU,Sukabumi,Bandung Dipati Ukur
+SKB,SHTGRL,SKB-SHTGRL,Sukabumi,Bhinneka Shuttle Grogol
+SKB,SHTJTNGR,SKB-SHTJTNGR,Sukabumi,Jatinangor
+SKB,SHTSMD,SKB-SHTSMD,Sukabumi,Sumedang
